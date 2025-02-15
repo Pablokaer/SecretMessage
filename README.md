@@ -27,3 +27,5 @@ Within the program, you can choose from the following options:
 - `(S)` Set a custom key
 - `(Q)` Exit the program
 
+## Author
+[Pablo Carvalho](https://github.com/seu-github)
